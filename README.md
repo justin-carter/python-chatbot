@@ -1,2 +1,2 @@
 # python-chatbot
-A chatbot using Python and Flask
+A chatbot created with Python, Flask, and ChatterBot.
