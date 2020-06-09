@@ -5,7 +5,7 @@ from chatterbot.trainers import ListTrainer
 
 app = Flask(__name__)
 
-chatbot = ChatBot('pybot')
+chatbot = ChatBot('PyBot')
 
 # Create a new trainer for the chatbot
 trainer = ChatterBotCorpusTrainer(chatbot)
